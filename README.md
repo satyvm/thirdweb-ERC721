@@ -1,3 +1,10 @@
+## Details of Contract Deployed
+
+This is the link to the [Thirdweb Dashboard](https://thirdweb.com/contracts/deploy/Qmefn1uaHFqcCLcvPV93gbo6bEsPGk9ftJ3ejjWNTg6E7j) which I deployed. (Also, you can use it to deploy your very own NFT smart contract)
+
+Here is the link to my deployed contract on Mumbai Network: [My Contract](https://thirdweb.com/mumbai/0x1b309a263210f5bd0fFba0a0d48Ac0f07D64b9F2/) 
+
+
 ## Getting Started
 
 Create a project using this example:
